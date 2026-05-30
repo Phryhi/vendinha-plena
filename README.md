@@ -71,3 +71,9 @@ dotnet run
 * Apenas uma dívida em aberto por cliente
 * Dívidas pagas permanecem registradas no histórico
 * Clientes são ordenados por maior valor de dívida
+
+## Autoras
+- Grupo N
+
+- Ana Julia Chiezi
+- Camila Pereira Mattos
